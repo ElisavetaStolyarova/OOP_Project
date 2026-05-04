@@ -55,7 +55,6 @@
 ## 🛠 Технологический стек
 *   **Language:** C# 
 *   **Paradigm:** OOP (Abstract classes, Polymorphism, Encapsulation)
-*   **Data Security:** Parameterized Queries (Protection against SQL Injection)
 
 ---
 *Проект разработан в качестве демонстрации навыков проектирования сложных финансовых систем с использованием современных стандартов разработки на C#.*
